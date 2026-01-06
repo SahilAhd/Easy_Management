@@ -22,3 +22,9 @@ npm i
 ```
 npm run dev
 ```
+5. Set up tailwind from official tailwind website
+
+6. install necessary dependencies plugins
+```
+ npm install @reduxjs/toolkit react-redux react-router-dom react-icons react-chartjs2  chart.js daisyui axi os react-hot-toast @tailwindcss/line-clamp
+ ```
